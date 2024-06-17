@@ -1,0 +1,6 @@
+train: data/train/images
+val: data/valid/images
+test: data/test/images
+
+nc: 8
+names: ['Rickshaw', 'Tractor', 'bus', 'car', 'motorcycle', 'plate no-', 'truck', 'van']

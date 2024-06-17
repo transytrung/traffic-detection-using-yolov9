@@ -1,0 +1,35 @@
+path/to/large/file
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# __pycache__
+__pycache__/
+
+
+
+
+# data
+data/
+
+# figure
+figure/
+
+# fresh-repo
+fresh-repo/
+
+# models
+models/
+
+# panoptic
+panoptic/
+
+# scripts
+scripts/
+
+# segment
+segment/
+
+# tools
+tools/
+
+#utils
+utils/
